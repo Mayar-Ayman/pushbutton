@@ -4,8 +4,8 @@
 
 ![circuit diagram off](https://user-images.githubusercontent.com/108824980/184267742-fc84d559-9ef9-48c7-b7e0-b73bbf37a061.png)
  
-- As we can see above, the LED is connected to the digital port of the Arduino UNO board in port No. 13\
-- The on/off button is connected to the digital port No. 2\
+- As we can see above, the LED is connected to the digital port of the Arduino UNO board in port No. 13
+- The on/off button is connected to the digital port No. 2
 
 2.second, step is to write the Arduino code on the Arduino IDE:
 
