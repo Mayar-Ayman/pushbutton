@@ -1,6 +1,6 @@
 # pushbutton
 **Simplified form using the on-off button**\
-1.At first, you need to connect a simple circuit like this:\
+1.At first, you need to connect a simple circuit like this:
 
 ![circuit diagram off](https://user-images.githubusercontent.com/108824980/184267742-fc84d559-9ef9-48c7-b7e0-b73bbf37a061.png)
  
